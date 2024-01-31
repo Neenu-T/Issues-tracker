@@ -1,0 +1,15 @@
+.todo{
+    background-color: black;
+    color:white;
+    width:1040px;
+    height:440px;
+    text-align: center;
+   
+    
+}
+.btn-add{
+    border-radius: 10px;
+}
+.lists{
+    color:white;
+}
